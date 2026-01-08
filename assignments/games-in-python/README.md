@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build classic word-guessing and interactive games using Python strings, loops, conditionals, and user input. You'll practice creating engaging programs that respond to player decisions.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Hangman Game Challenge
 
